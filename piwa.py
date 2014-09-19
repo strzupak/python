@@ -5,4 +5,4 @@ class Piwo(object):
     self.name = name
     
   def pokazPiwo(self):
-    return name
+    return self.name
