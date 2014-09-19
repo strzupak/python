@@ -9,5 +9,5 @@ if __name__ == "__main__":
 	print helloWorld("Denat")
 	tyskie = Piwo("Tyskie")
 	print tyskie.pokazPiwo()
-	grants = Whisky("Grants")
+	grants = Whisky("Grants", 21)
 	print grants.pokazWhisky()
