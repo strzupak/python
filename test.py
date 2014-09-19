@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from piwo import Piwo
+from piwa import Piwo
 
 def helloWorld(name):
 	return "Hello, %s" % (name)
